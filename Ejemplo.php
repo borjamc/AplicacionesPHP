@@ -1,6 +1,11 @@
 <?php
 
-echo "Hola Mundo";
+$nombre = "Borja";
+
+echo "Hola ".$nombre;
+
+
+
 
 ?>
 
